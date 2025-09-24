@@ -2,6 +2,8 @@
 
 此專案示範以 CRISP-DM 流程解決簡單線性回歸問題，並提供可互動的 Streamlit 介面：你可調整資料生成與訓練參數，即時觀察擬合直線與評估指標。內容包含一頁式的 CRISP-DM 對照、數學原理、模組 API、部署與常見問題；自動化產生與修訂過程請見 `log.md`。
 
+Demo link: <https://aiot-hw1-cnnkxquzng72buddknqshp.streamlit.app/>
+
 ## 亮點
 
 - 一頁式 CRISP-DM 對照（Business → Data → Preparation → Modeling → Evaluation → Deployment）
